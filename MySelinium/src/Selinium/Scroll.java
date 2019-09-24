@@ -12,6 +12,7 @@ public class Scroll {
 		// TODO Auto-generated method stub
 		//firstcommit message
 		//this the second window
+		//three
 		System.setProperty("webdriver.gecko.driver", "C:\\seleniumdriver\\geckodriver.exe");
 		WebDriver driver =new FirefoxDriver();
 		driver.manage().window().maximize();
